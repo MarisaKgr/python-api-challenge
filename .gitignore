@@ -3,3 +3,6 @@
 api_keys.py
 # Ada Library Information
 *.ali
+
+# Ignore config.py
+config.py
